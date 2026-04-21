@@ -42,3 +42,7 @@ ISO C++ 标志（红色色调，即 H = 0）：
 - `"Courier Prime"`
 - `"方正书宋_GBK"`
 - `"思源宋体 CN"`
+
+## 软件和字体
+
+见我的个人博客项目关于图片的 `README.md` ： [链接](https://github.com/LS-Hower/LS-Hower.github.io/blob/main/images/README.md)
