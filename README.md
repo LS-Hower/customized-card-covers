@@ -1,4 +1,4 @@
-![横幅-绀](./png-for-markdown/gan-horizontal.png)
+![横幅-绀](./svg/manual/gan-horizontal.svg)
 
 # customized-card-covers
 
