@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 660">
+    <rect width="420" height="338" x="0" y="0" fill="#d16464" />
+    <rect width="210" height="322" x="0" y="338" fill="#820000" />
+    <rect width="210" height="322" x="210" y="338" fill="#9c0000" />
+    <text
+        x="210"
+        y="420"
+        font-size="324px"
+        font-family="霞鹜文楷 GB"
+        fill="white"
+        text-anchor="middle"
+        dominant-baseline="middle"
+    >绀</text>
+</svg>
