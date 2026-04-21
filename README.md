@@ -10,7 +10,7 @@ make
 
 ## 参考颜色
 
-（`#` 的前面有一个空格，是为了在 VS Code 里实时预览颜色）
+（ `#` 的前面有一个空格，是为了在 VS Code 里实时预览颜色）
 
 - ` #003399` 北邮蓝
 - ` #880000` 绀珠传红
@@ -34,9 +34,9 @@ ISO C++ 标志（红色色调，即 H = 0）：
 
 ## 参考字体
 
-- "霞鹜文楷 GB"
-- "Sarasa Fixed SC Regular"
-- "Maple Mono NL NF CN Regular"
-- "Courier Prime"
-- "方正书宋_GBK"
-- "思源宋体 CN"
+- `"霞鹜文楷 GB"`
+- `"Sarasa Fixed SC Regular"`
+- `"Maple Mono NL NF CN Regular"`
+- `"Courier Prime"`
+- `"方正书宋_GBK"`
+- `"思源宋体 CN"`
