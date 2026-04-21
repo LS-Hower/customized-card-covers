@@ -5,3 +5,7 @@ compiled/
 *.bak
 \#*
 .\#*
+
+# VS Code
+
+.vscode/
