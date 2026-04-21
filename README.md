@@ -1,5 +1,12 @@
 # customized-card-covers
+
 定制硬质塑料卡套时使用的图片
+
+## 构建
+
+```bash
+make
+```
 
 ## 参考颜色
 

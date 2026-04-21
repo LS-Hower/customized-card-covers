@@ -7,5 +7,7 @@ compiled/
 .\#*
 
 # VS Code
-
 .vscode/
+
+# Reproducible
+png/
